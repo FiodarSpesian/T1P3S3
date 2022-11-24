@@ -110,7 +110,7 @@ void Zadacha21()
     Console.WriteLine(distance);
 }
 
-//Zadacha21();
+// Zadacha21();
 
 // Case 22 Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел от 1 до N.
 void Case22()
